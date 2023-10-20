@@ -1,0 +1,14 @@
+C:\Users\Vahdet\Documents\Pratikler\switch-case\bin\Debug\net7.0\switch-case.exe
+C:\Users\Vahdet\Documents\Pratikler\switch-case\bin\Debug\net7.0\switch-case.deps.json
+C:\Users\Vahdet\Documents\Pratikler\switch-case\bin\Debug\net7.0\switch-case.runtimeconfig.json
+C:\Users\Vahdet\Documents\Pratikler\switch-case\bin\Debug\net7.0\switch-case.dll
+C:\Users\Vahdet\Documents\Pratikler\switch-case\bin\Debug\net7.0\switch-case.pdb
+C:\Users\Vahdet\Documents\Pratikler\switch-case\obj\Debug\net7.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahdet\Documents\Pratikler\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\Vahdet\Documents\Pratikler\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfo.cs
+C:\Users\Vahdet\Documents\Pratikler\switch-case\obj\Debug\net7.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Vahdet\Documents\Pratikler\switch-case\obj\Debug\net7.0\switch-case.dll
+C:\Users\Vahdet\Documents\Pratikler\switch-case\obj\Debug\net7.0\refint\switch-case.dll
+C:\Users\Vahdet\Documents\Pratikler\switch-case\obj\Debug\net7.0\switch-case.pdb
+C:\Users\Vahdet\Documents\Pratikler\switch-case\obj\Debug\net7.0\switch-case.genruntimeconfig.cache
+C:\Users\Vahdet\Documents\Pratikler\switch-case\obj\Debug\net7.0\ref\switch-case.dll
